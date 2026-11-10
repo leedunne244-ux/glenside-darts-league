@@ -1,0 +1,8 @@
+{
+  "name": "glenside-darts-league",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Glenside Darts League custom standings and rules website",
+  "dependencies": {"exceljs": "^4.4.0"},
+  "engines": {"node": ">=20"}
+}
